@@ -1,3 +1,5 @@
+# This project has been merged into [the vk-x monorepo](https://github.com/vk-x/vk-x)
+
 # cp1251
 
 ```JavaScript
